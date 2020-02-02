@@ -1,0 +1,8 @@
+Proszę policzyć ile wynosi 7 do 4.
+Proszę podzielić string na listę: "Cześć, jestm twoim zadaniem, podziel mnie na składowe i zapisz do listy".
+Prozę napisać z użyciem zmiennych natępujące zdanie: Obwód {Ziemi} jest równy {12742} kilometra.
+Proszę z listy wyciągnąć literę 'ś': moja_lista = [1,2,[3,4],[5,[100,200,['cześć']],23,11],1,7]
+Proszę napisać skrypt, która ze stringa wyciągnie adres email: "mój adres email to: michal.maj@wsei.lublin.pl, można wysyłać prace, gdy są gotowe". Przydatna biblioteka: regex (re)
+Proszę przeszukać string pod kątem wybranego słowa.
+Za pomocą funkcji lambda oraz funkcji filter() proszę z listy ['kot','pies','wydra','kangur','koza','lew','tygrys','foka','lama','koń'] usunąć nazwy zwierząt na literę k i wyświetlić usunięte elementy w formie listy
+Proszę napisać funkcję, która wypisze jaki rabat (5%,10%,bez rabatu) na zakupy przysługuje osobie kupującej w skepie. 10% rabat przyznawany jest w dniu urodzin kupującego przy zakupach za kwotę większą niż 200 zł, 5% jeżeli koszt zakupu jest większy niż 300 zł i bez rabatu, gdy żadna z powyższych nie jest spełniona. Rabaty sumują się.
